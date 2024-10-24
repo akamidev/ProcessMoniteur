@@ -16,7 +16,7 @@ public class EmailAlert {
         properties.put("mail.smtp.starttls.enable", "true"); // Active TLS
 
         String username = "akamimehdi.dev@gmail.com";  // Votre adresse email
-        String password = "txsq jkrl ttvl hmti";  // Votre mot de passe
+        String password = "your-password";  // Votre mot de passe
 
         Session session = Session.getInstance(properties, new javax.mail.Authenticator() {
             protected PasswordAuthentication getPasswordAuthentication() {
