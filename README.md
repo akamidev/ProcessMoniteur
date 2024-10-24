@@ -4,17 +4,6 @@
 ![Maven](https://img.shields.io/badge/Maven-3.8.9-blue?style=for-the-badge&logo=apache-maven)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-## Aperçu du projet 🖼️
-
-Voici une capture d'écran du programme en action :
-
-
-![Description de l'image](image/Photo1.png)
-![Description de l'image](image/Photo2.png)
-![Description de l'image](image/Photo3.png)
-
-
-
 ## Description du Projet
 **ProcessMoniteur** est un programme Java qui surveille les processus système et envoie une alerte par email lorsqu'un processus dépasse un seuil de mémoire spécifié. Le projet utilise la bibliothèque **OSHI** pour obtenir des informations système, et **JavaMail** pour envoyer les alertes par email en cas de dépassement. Il permet également une automatisation via le Planificateur de Tâches Windows.
 
@@ -30,6 +19,19 @@ Voici une capture d'écran du programme en action :
 - Bibliothèque **OSHI** (utilisée pour la surveillance des processus).
 - **JavaMail** (utilisée pour l'envoi des alertes par email).
 
+## Aperçu du projet 🖼️
+
+Voici quelques captures d'écran montrant le fonctionnement du programme :
+
+![Description de l'image](image/Photo1.png)
+
+---
+
+![Description de l'image](image/Photo2.png)
+
+---
+
+![Description de l'image](image/Photo3.png)
 
 ## Installation et Configuration ⚙️
 
