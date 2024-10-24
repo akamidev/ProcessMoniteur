@@ -33,4 +33,4 @@ cd ProcessMoniteur
   
 ### Licence 📜
 
-Ce projet est sous licence MIT. Consulte le fichier [LICENSE](https://github.com/akamidev/surveillance_disque/blob/main/LICENSE) pour plus d'informations.
+Ce projet est sous licence MIT. Consulte le fichier [LICENSE](https://github.com/akamidev/ProcessMoniteur/blob/main/LICENSE) pour plus d'informations.
