@@ -5,18 +5,18 @@ import java.util.Properties;
 public class EmailAlert {
 
     public static void sendEmail(String processName, long memoryUsed) {
-        String to = "akamimehdi.dev@gmail.com";  // Adresse email du destinataire
-        String from = "midoaka7@gmail.com";  // Adresse email de l'expéditeur
-        String host = "smtp.gmail.com";  // Serveur SMTP de Gmail
+        String to = "akamimehdi.dev@gmail.com";  // choisir votre Adresse email du destinataire
+        String from = "midoaka7@gmail.com";  // choisir votre Adresse email de l'expéditeur
+        String host = "smtp--gmail.com";  // choisir le bon Serveur SMTP de Gmail
 
         Properties properties = System.getProperties();
         properties.setProperty("mail.smtp.host", host);
-        properties.setProperty("mail.smtp.port", "587"); // Port pour TLS
+        properties.setProperty("mail.smtp.port", "7"); // choisir votre le bon Port pour TLS
         properties.setProperty("mail.smtp.auth", "true"); // Authentification requise
         properties.put("mail.smtp.starttls.enable", "true"); // Active TLS
 
         String username = "akamimehdi.dev@gmail.com";  // Votre adresse email
-        String password = "your-password";  // Votre mot de passe
+        String password = "your-password";  // choisir  Votre mot de passe generer avec votre compte gmail
 
         Session session = Session.getInstance(properties, new javax.mail.Authenticator() {
             protected PasswordAuthentication getPasswordAuthentication() {
