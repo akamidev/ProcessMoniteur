@@ -5,10 +5,13 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ## Aperçu du projet 🖼️
+
 Voici une capture d'écran du programme en action :
 
 ![Description de l'image](image/Capture d'écran 2024-10-24 092034.png)
+
 ![Description de l'image](image/Capture d'écran 2024-10-24 115421.png)
+
 ![Description de l'image](image/Capture d'écran 2024-10-24 114151.png)
 
 ## Description du Projet
