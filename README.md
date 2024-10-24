@@ -26,3 +26,11 @@ Pour commencer avec le projet, clonez le dépôt depuis GitHub :
 ```bash
 git clone https://github.com/akamidev/ProcessMoniteur.git
 cd ProcessMoniteur
+```
+### Auteur 👨‍💻
+
+- Mehdi Akami - [Mon profil GitHub](https://github.com/akamidev)
+  
+### Licence 📜
+
+Ce projet est sous licence MIT. Consulte le fichier [LICENSE](https://github.com/akamidev/surveillance_disque/blob/main/LICENSE) pour plus d'informations.
